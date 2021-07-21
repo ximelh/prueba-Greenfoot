@@ -14,7 +14,7 @@ public class MyCat extends Cat
     public void act()
     {if (isSleepy())
         {
-            sleep(4);
+            sleep(2); //durmamos
         }
         if (isBored())
         {
